@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Prativa Ghimire</h1>
 <h3 align="center">A Computer Science student at University of Toronto</h3>
 
+- 💼 Experiences: Software Engineer Intern @ Cleveland Cliffs | Software Developer @ FinTech Association UofT | System & IT Intern @ Government of Ontario
+  
 - 📚 Courses: Software Design & Development, System Programming/Testing, Data Structures & Algorithms Analysis, Computer Organization & Network, Database management systems, Operating Systems, Data science, Data modeling, Statistical Data Analysis
-
-- 💼 Experience: Software Engineer Intern @ Cleveland Cliffs | Software Developer @ FinTech Association UofT | System & IT Intern @ Government of Ontario
 
 - 👩🏽‍💻 Projects: [BookTrades](https://www.booktrade.app/) , [VoGro](https://www.vogro.org/) , [Acente](https://acente-d5371.web.app/en/)
 

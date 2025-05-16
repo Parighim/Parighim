@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
 - 📚 Courses: Software Design & Development, System Programming/Testing, Data Structures & Algorithms Analysis, Computer Organization & Network, Database management systems, Operating Systems, Data science, Data modeling, Statistical Data Analysis
 
-- 👩🏽‍💻 Projects: [BookTrades](https://www.booktrade.app/) , [VoGro](https://www.vogro.org/) , [Acente](https://acente-d5371.web.app/en/)
+- 👩🏽‍💻 Projects: [BookTrades](https://www.homestars.com/) , [VoGro](https://www.vogro.org/) , [Acente](https://acente-d5371.web.app/en/)
 
 - 📫 Reach me at prativa.ghimire@mail.utoronto.ca
 

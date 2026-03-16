@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
 - 📚 Courses: Software Design & Development, System Programming/Testing, Data Structures & Algorithms Analysis, Computer Organization & Network, Database management systems, Operating Systems, Data science, Data modeling, Statistical Data Analysis
 
-- 👩🏽‍💻 Projects: [VoGro](https://www.vogro.org/) , [Acente](https://acente-d5371.web.app/en/) , [BookTrades](https://www.homestars.com/) 
+- 👩🏽‍💻 Projects: [VoGro](https://www.vogro.org/) , [Acente](https://acente-d5371.web.app/en/) , [BookTrades](https://www.homestars.com/) , [Quercus Calender Extension](https://github.com/VivianTu789/Design_Hive_Quercus_Calendar_Extention)
 
 - 📫 Reach me at prativa.ghimire@mail.utoronto.ca
 

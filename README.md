@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💼 Experiences: Software Developer Intern @ CIBC | Software Engineer Intern @ Cleveland Cliffs | Software Developer @ FinTech Association UofT | System & IT Intern @ Government of Ontario
   
-- 📚 Courses: Software Design & Development, System Programming/Testing, Data Structures & Algorithms Analysis, Computer Organization & Network, Database management systems, Operating Systems, Data science, Data modeling, Statistical Data Analysis
+- 📚 Courses: Software Development & Testing, Systems Programming & Networking (cloud/infrastructure), Data Structures & Algorithms Analysis, Computer Organization, Database management systems, Operating Systems, Data science, Data modeling, Statistical Data Analysis, Machine Learning, AI, Cloud Computing, OPP, Information Security, Algorithm Design & Analysis.
 
 - 👩🏽‍💻 Projects: [VoGro](https://www.vogro.org/) , [Acente](https://acente-d5371.web.app/en/) , [BookTrades](https://www.homestars.com/) , [Quercus Calender Extension](https://github.com/VivianTu789/Design_Hive_Quercus_Calendar_Extention)
 
